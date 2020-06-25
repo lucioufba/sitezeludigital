@@ -1086,6 +1086,11 @@ hr.invis1 {
 FOOTER
 *********************/
 
+
+.form-control {
+    background: #151515;
+}
+
 .section.footer {
     background-color: #000
 }
